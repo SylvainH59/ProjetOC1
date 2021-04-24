@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-03-16T08:54:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037727388",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Aubers – École",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8308924,
+          50.5973637
+        ]
+      },
+      "id": "node/1037727388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037727425",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rond-Point Wadhurst",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8107349,
+          50.5975925
+        ]
+      },
+      "id": "node/1037727425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037727433",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Aubers – Église",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8254962,
+          50.5955033
+        ]
+      },
+      "id": "node/1037727433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037727441",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sacré Cœur",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.821363,
+          50.5942402
+        ]
+      },
+      "id": "node/1037727441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6414421439",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Aubers – École",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8317739,
+          50.5981052
+        ]
+      },
+      "id": "node/6414421439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8078309162",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Rond-Point Wadhurst",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8105965,
+          50.5975778
+        ]
+      },
+      "id": "node/8078309162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8078309166",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Aubers – Église",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8259953,
+          50.596018
+        ]
+      },
+      "id": "node/8078309166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8078309176",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Aubers – Église",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8262224,
+          50.5955537
+        ]
+      },
+      "id": "node/8078309176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8079152263",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sacré Cœur",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8212788,
+          50.5943213
+        ]
+      },
+      "id": "node/8079152263"
+    }
+  ]
+}

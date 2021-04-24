@@ -1,0 +1,723 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-03-16T07:49:31Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/980734345",
+        "building": "bunker",
+        "landuse": "military",
+        "military": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8334191,
+          50.5974073
+        ]
+      },
+      "id": "node/980734345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469571",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8190896,
+          50.5902162
+        ]
+      },
+      "id": "node/987469571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469577",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8440343,
+          50.5949112
+        ]
+      },
+      "id": "node/987469577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469578",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8199216,
+          50.5999779
+        ]
+      },
+      "id": "node/987469578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469580",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8339735,
+          50.6064571
+        ]
+      },
+      "id": "node/987469580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469581",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8177986,
+          50.5802342
+        ]
+      },
+      "id": "node/987469581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469582",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8134449,
+          50.5912588
+        ]
+      },
+      "id": "node/987469582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469583",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8363636,
+          50.5917925
+        ]
+      },
+      "id": "node/987469583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469586",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8152434,
+          50.6024681
+        ]
+      },
+      "id": "node/987469586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469587",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8267393,
+          50.6073944
+        ]
+      },
+      "id": "node/987469587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469589",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8274854,
+          50.5916243
+        ]
+      },
+      "id": "node/987469589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469591",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.806014,
+          50.5906459
+        ]
+      },
+      "id": "node/987469591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469592",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.815956,
+          50.5946491
+        ]
+      },
+      "id": "node/987469592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469596",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8305903,
+          50.5909055
+        ]
+      },
+      "id": "node/987469596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469597",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8262637,
+          50.6010019
+        ]
+      },
+      "id": "node/987469597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469599",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8315056,
+          50.6117648
+        ]
+      },
+      "id": "node/987469599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469601",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8216696,
+          50.5886445
+        ]
+      },
+      "id": "node/987469601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469602",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8108922,
+          50.5884973
+        ]
+      },
+      "id": "node/987469602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469605",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8434822,
+          50.5946117
+        ]
+      },
+      "id": "node/987469605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469606",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8225815,
+          50.5978945
+        ]
+      },
+      "id": "node/987469606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469610",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8290337,
+          50.5972077
+        ]
+      },
+      "id": "node/987469610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469611",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8313964,
+          50.6043497
+        ]
+      },
+      "id": "node/987469611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469612",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8190048,
+          50.5865384
+        ]
+      },
+      "id": "node/987469612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469614",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8132487,
+          50.5906688
+        ]
+      },
+      "id": "node/987469614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469615",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8445608,
+          50.5919995
+        ]
+      },
+      "id": "node/987469615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469617",
+        "building": "bunker",
+        "landuse": "military",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8351954,
+          50.5973759
+        ]
+      },
+      "id": "node/987469617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469618",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8131181,
+          50.6012341
+        ]
+      },
+      "id": "node/987469618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469621",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8306914,
+          50.6081161
+        ]
+      },
+      "id": "node/987469621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469622",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8122819,
+          50.5839405
+        ]
+      },
+      "id": "node/987469622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469624",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8276311,
+          50.6118425
+        ]
+      },
+      "id": "node/987469624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469625",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8187217,
+          50.5920926
+        ]
+      },
+      "id": "node/987469625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469627",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8309435,
+          50.5915491
+        ]
+      },
+      "id": "node/987469627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469629",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8274444,
+          50.5975153
+        ]
+      },
+      "id": "node/987469629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469632",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8331377,
+          50.6099125
+        ]
+      },
+      "id": "node/987469632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469637",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8263492,
+          50.593561
+        ]
+      },
+      "id": "node/987469637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469638",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8094821,
+          50.590382
+        ]
+      },
+      "id": "node/987469638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469640",
+        "building": "bunker",
+        "landuse": "military",
+        "military": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8397788,
+          50.5987567
+        ]
+      },
+      "id": "node/987469640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469641",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8156911,
+          50.5947013
+        ]
+      },
+      "id": "node/987469641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469642",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8255263,
+          50.6035953
+        ]
+      },
+      "id": "node/987469642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469644",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8256857,
+          50.6153763
+        ]
+      },
+      "id": "node/987469644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/987469646",
+        "building": "bunker",
+        "military": "bunker",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8197624,
+          50.5895473
+        ]
+      },
+      "id": "node/987469646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4473992392",
+        "building": "bunker",
+        "landuse": "military",
+        "military": "bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8306953,
+          50.5983798
+        ]
+      },
+      "id": "node/4473992392"
+    }
+  ]
+}
